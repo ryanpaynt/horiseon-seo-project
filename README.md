@@ -7,9 +7,13 @@
 ### Deployable Links
 
 ```
-
+Link to Website:
+    https://ryanpaynt.github.io/horiseon-seo-project/#search-engine-optimization
 ```
-
+```
+Link to Repository:
+https://github.com/ryanpaynt/horiseon-seo-project
+```
 
 ### Description
 <p>
@@ -23,3 +27,7 @@ I was given this website to refract and clean for the client. I edited the code 
 -Easy to Follow Documentation
 ```
 </p>
+
+### Screenshot
+
+<img src="./horiseon-screen-shot.jpg" width="500">
