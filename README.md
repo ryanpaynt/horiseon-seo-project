@@ -1,8 +1,8 @@
 # README.md for horiseon-seo-project
 
-### 1. Deployable Links
-### 2. Description
-### 3. Screenshot
+1. [Deployable Links](#Deployable)
+2. [Description](#Descriptions)
+3. [Screenshot](#Screenshot)
 
 ### Deployable Links
 
