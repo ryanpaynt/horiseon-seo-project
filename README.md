@@ -2,7 +2,9 @@
 
 1. [Deployable Links](#Deployable)
 2. [Description](#Descriptions)
-3. [Screenshot](#Screenshot)
+3. [Usage](#Usage)
+4. [Screenshot](#Screenshot)
+5. [Credits](#Credits)
 
 ### Deployable Links
 
@@ -28,6 +30,18 @@ I was given this website to refract and clean for the client. I edited the code 
 ```
 </p>
 
+### Usage
+<p>
+Simply use the two links and paste each one into your web browser. It should give the user access to the repo and the website.
+</p>
+
 ### Screenshot
 
 <img src="./horiseon-screen-shot.jpg" width="500">
+
+### Credits
+<p>
+
+Credit is given to the UNCC Bootcamp for giving me the code
+
+</p>
